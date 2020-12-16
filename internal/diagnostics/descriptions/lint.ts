@@ -17,6 +17,10 @@ import {buildSuggestionAdvice} from "../helpers";
 import {addEmphasis, createDiagnosticsCategory, orJoin} from "./index";
 
 export const lint = createDiagnosticsCategory({
+	JS_SIMPLIFY_BOOLEAN_CONDITIONS: {
+		category: "lint/js/simplifyBooleanConditions",
+		message: markup`INSERT MESSAGE HERE`,
+	},
 	JS_NO_UNNECESSARY_CONTINUE: {
 		category: "lint/js/noUnnecessaryContinue",
 		message: markup`Unnecessary <emphasis>continue</emphasis> statement`,

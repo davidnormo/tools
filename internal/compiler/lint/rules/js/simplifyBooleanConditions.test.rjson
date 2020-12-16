@@ -1,0 +1,9 @@
+filename: "filename.ts"
+invalid: [
+  "a || 0n || false || 0 || '' || null || undefined || NaN || -0"
+]
+valid: [
+	"
+		// insert valid examples here
+	"
+]

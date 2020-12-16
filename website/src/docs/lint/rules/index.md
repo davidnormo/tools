@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # Rules
 
-<!-- GENERATED:START(hash:d3597448a00dee2887171f21879f55fb33c9ed87,id:main) Everything below is automatically generated. DO NOT MODIFY. Run `./rome run scripts/generated-files/lint-rules` to update. -->
+<!-- GENERATED:START(hash:0c0a93662af717f8fe5f01a7eef0bc176902d965,id:main) Everything below is automatically generated. DO NOT MODIFY. Run `./rome run scripts/generated-files/lint-rules` to update. -->
 <section>
 <h2>JavaScript</h2>
 <p>Rule semantics and descriptions taken from <a href="https://eslint.org/">ESLint</a>. See individual rule docs for direct references.</p>
@@ -264,6 +264,13 @@ require `let` or `const` instead of `var`
 <h3 data-toc-exclude id="preferOptionalChaining">
 	<a href="/docs/lint/rules/js/preferOptionalChaining">preferOptionalChaining</a>
 	<a class="header-anchor" href="#preferOptionalChaining"></a>
+</h3>
+MISSING DOCUMENTATION
+</div>
+<div class="rule">
+<h3 data-toc-exclude id="simplifyBooleanConditions">
+	<a href="/docs/lint/rules/js/simplifyBooleanConditions">simplifyBooleanConditions</a>
+	<a class="header-anchor" href="#simplifyBooleanConditions"></a>
 </h3>
 MISSING DOCUMENTATION
 </div>

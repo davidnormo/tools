@@ -8,7 +8,7 @@ type Test = {
 
 type Tests = Dict<Test | (Test[])>;
 
-/* GENERATED:START(hash:80a5154fc8cfb423e0040786f53f490830fc49ca,id:main) Everything below is automatically generated. DO NOT MODIFY. Run `./rome run scripts/generated-files/lint-rules` to update. */
+/* GENERATED:START(hash:cb2910df04cbc335e5656fd8d475e3110184f57c,id:main) Everything below is automatically generated. DO NOT MODIFY. Run `./rome run scripts/generated-files/lint-rules` to update. */
 // @ts-ignore
 import useClosingNonVoid from "./html/useClosingNonVoid.test.rjson";
 // @ts-ignore
@@ -83,6 +83,8 @@ import noUnusedVariables from "./js/noUnusedVariables.test.rjson";
 import noVar from "./js/noVar.test.rjson";
 // @ts-ignore
 import preferOptionalChaining from "./js/preferOptionalChaining.test.rjson";
+// @ts-ignore
+import simplifyBooleanConditions from "./js/simplifyBooleanConditions.test.rjson";
 // @ts-ignore
 import useBlockStatements from "./js/useBlockStatements.test.rjson";
 // @ts-ignore
